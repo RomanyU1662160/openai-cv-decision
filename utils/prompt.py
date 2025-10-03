@@ -9,7 +9,7 @@ def build_prompt(content: str) -> str:
     <content>
     {content}
     </content>
-    
+
     <example>
     the candidate is good/excellent  fit for the role, he  has the required skills for the position, my reason for my decision is based on: 
     - he has React.js, which will support the front end developing
